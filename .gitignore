@@ -31,7 +31,8 @@ vue.config.js
 !/app/Config/Constants.php
 !/app/Config/Filters.php
 
-/public/assets/image/admin/*
+/public/dist/*
+/public/favicon.ico
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
