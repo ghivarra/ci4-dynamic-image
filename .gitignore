@@ -32,6 +32,7 @@ vue.config.js
 !/app/Config/Filters.php
 
 /public/dist/*
+/public/packages/*
 /public/favicon.ico
 
 # Recycle Bin used on file shares
